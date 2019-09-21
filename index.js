@@ -33,3 +33,4 @@ function makeInt(n) {
 function isNan(n) {
   return parseInt(n, 10);
 }
+
