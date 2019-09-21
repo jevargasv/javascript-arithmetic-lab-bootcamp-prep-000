@@ -30,6 +30,6 @@ function makeInt(n) {
   return parseInt(n, 10);
 }
 
-function makeInt(n) {
-  return NaN
+function isNan(n) {
+  return parseInt(n, 10);
 }
